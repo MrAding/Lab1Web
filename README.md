@@ -1,7 +1,7 @@
-```# Praktikum 1 - Pemrograman Web
+# Praktikum 1 - Pemrograman Web
 ### Ahmad Fadhiil Muttaqin - 312010615
 ### TI.20.A.1
-```
+
 ## LANGKAH 1
 
 Membuka VS Code dan membuat file baru serta membuat struktur HTML Dasar
