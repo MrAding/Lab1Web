@@ -5,11 +5,13 @@
 ## LANGKAH 1
 
 Membuka VS Code dan membuat file baru serta membuat struktur HTML Dasar
-![step-1](https://i.imgur.com/dJYXxai.png)
+![screenshot contoh html](https://user-images.githubusercontent.com/46867774/158478967-6125dc54-f017-4470-905b-b0dea1b18fb5.png)
+
 
 ## LANGKAH 2
 Membuat sebuah paragraf serta mengaturnya dengan menggunakan `align` sesuaikan dengan kebutuhan. Lalu tambahkan sebuah judul dengan menggunakan tag h1-h6 sesuaikan dengan keinginan
-![step-2](https://i.imgur.com/0zrnA6c.png)
+![screenshot contoh 2 html](https://user-images.githubusercontent.com/46867774/158479483-bafee35b-7d7d-4304-a677-73b8a58a5d16.png)
+
 
 ## LANGKAH 3 
 Memformat Teks serta bereksperimen menggunakan format-format teks yang ada seperti `<b>`, `<strong>`, `<i>`, `<em>`, `<mark>`, `<small>`, `<dell>`, `<ins>`, `<sub>`, dan `<sup>`.
