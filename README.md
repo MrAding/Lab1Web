@@ -15,7 +15,8 @@ Membuat sebuah paragraf serta mengaturnya dengan menggunakan `align` sesuaikan d
 
 ## LANGKAH 3 
 Memformat Teks serta bereksperimen menggunakan format-format teks yang ada seperti `<b>`, `<strong>`, `<i>`, `<em>`, `<mark>`, `<small>`, `<dell>`, `<ins>`, `<sub>`, dan `<sup>`.
-![step-3](https://i.imgur.com/Em5axKC.png)
+![screenshot contoh 3 html](https://user-images.githubusercontent.com/46867774/158484383-146f2af9-1a45-4ad0-8a97-549997516fa5.png)
+
 
 ## LANGKAH 4
 menyisipkan gambar ke dalam web 
@@ -28,7 +29,7 @@ menyisipkan gambar ke dalam web
 
 ## LANGKAH 5
 Membuat sebuah hyperlink sebelum heading
-![step-5](https://i.imgur.com/x3Aplbl.png)
+
 
 # Jawab Pertanyaan Berikut
 1. Lakukan perubahan pada code sesuai dengan keinginan anda, amati perubahannya adakah _error_ ketika terjadi kesalahan penulisan tag?
