@@ -1,6 +1,10 @@
 # Praktikum 1 - Pemrograman Web
-### Ahmad Fadhiil Muttaqin - 312010615
-### TI.20.A.1
+```
+Nama    : Ahmad Fadhiil Muttaqin
+Nim     : 312010615
+Kelas   : TI.20.A.1
+Matkul  : Pemrograman Web
+```
 
 ## LANGKAH 1
 
