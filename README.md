@@ -24,7 +24,8 @@ menyisipkan gambar ke dalam web
 <img src="namafile.formatgambar" title="nama gambar">
 ``` 
 *file gambar harus didalam satu folder dengan file HTML
-
+![screenshot contoh 6 html](https://user-images.githubusercontent.com/46867774/158517946-3b1f9d25-2577-4bef-b03c-d7085e36e41b.png)
+![screenshot contoh 6 html](https://user-images.githubusercontent.com/46867774/158518314-05c1bc46-46f5-48d5-b97e-aba68fc74ba9.png)
 ![screenshot contoh 4 html](https://user-images.githubusercontent.com/46867774/158516663-2faf0ee6-9bcc-4d70-8a49-484cd247ad53.png)
 
 ## LANGKAH 5
