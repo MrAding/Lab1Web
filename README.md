@@ -34,6 +34,8 @@ menyisipkan gambar ke dalam web
 
 ## LANGKAH 5
 Membuat sebuah hyperlink sebelum heading
+![screenshot contoh 5 html hyperlink](https://user-images.githubusercontent.com/46867774/158555476-923d56ab-431c-4376-ab74-a46264cc6d27.png)
+
 ![screenshot contoh 5 html](https://user-images.githubusercontent.com/46867774/158516403-e6ff6df2-fe92-4ff8-a5bd-5e7b53d17153.png)
 
 
