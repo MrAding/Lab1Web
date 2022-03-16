@@ -24,8 +24,8 @@ menyisipkan gambar ke dalam web
 <img src="namafile.formatgambar" title="nama gambar">
 ``` 
 *file gambar harus didalam satu folder dengan file HTML
-![step-4-1](https://i.imgur.com/TIwt4ZQ.png)
-![step-4-2](https://i.imgur.com/rzGYbPO.png)
+
+![screenshot contoh 4 html](https://user-images.githubusercontent.com/46867774/158516663-2faf0ee6-9bcc-4d70-8a49-484cd247ad53.png)
 
 ## LANGKAH 5
 Membuat sebuah hyperlink sebelum heading
