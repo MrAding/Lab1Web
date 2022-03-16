@@ -14,7 +14,8 @@ Membuka VS Code dan membuat file baru serta membuat struktur HTML Dasar
 
 ## LANGKAH 2
 Membuat sebuah paragraf serta mengaturnya dengan menggunakan `align` sesuaikan dengan kebutuhan. Lalu tambahkan sebuah judul dengan menggunakan tag h1-h6 sesuaikan dengan keinginan
-![screenshot contoh 2 html](https://user-images.githubusercontent.com/46867774/158479483-bafee35b-7d7d-4304-a677-73b8a58a5d16.png)
+![screenshot contoh 2 html](https://user-images.githubusercontent.com/46867774/158557207-09f3e239-69f5-4289-85f1-32f1fcd4f095.png)
+
 
 
 ## LANGKAH 3 
